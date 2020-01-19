@@ -1,0 +1,34 @@
+[1]P. A. Naylor and N. D. Gaubitch, “SPEECH DEREVERBERATION,” p. 4.
+[2]J. P. Escudero et al., “An improved DNN-based spectral feature mapping that removes noise and reverberation for robust automatic speech recognition,” p. 5.
+[3]“Escudero et al. - An improved DNN-based spectral feature mapping tha.pdf.” .
+[4]Y. Zhao, Z.-Q. Wang, and D. Wang, “Two-Stage Deep Learning for Noisy-Reverberant Speech Enhancement,” IEEE/ACM Trans. Audio Speech Lang. Process., vol. 27, no. 1, pp. 53–62, Jan. 2019.
+[5]Z. Tang, L. Chen, B. Wu, D. Yu, and D. Manocha, “Improving Reverberant Speech Training Using Diffuse Acoustic Simulation,” arXiv:1907.03988 [cs, eess], Oct. 2019.
+[6]N. Kilis and N. Mitianoudis, “A Novel Scheme for Single-Channel Speech Dereverberation,” Acoustics, vol. 1, no. 3, pp. 711–725, Sep. 2019.
+[7]N. Kilis and N. Mitianoudis, “A Novel Scheme for Single-Channel Speech Dereverberation,” Acoustics, vol. 1, no. 3, pp. 711–725, Sep. 2019.
+[8]C. Zheng, Z.-H. Tan, R. Peng, and X. Li, “Guided spectrogram filtering for speech dereverberation,” Applied Acoustics, vol. 134, pp. 154–159, May 2018.
+[9]Y. Zhao, D. Wang, B. Xu, and T. Zhang, “Late Reverberation Suppression Using Recurrent Neural Networks with Long Short-Term Memory,” in 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, AB, 2018, pp. 5434–5438.
+[10]T. May, “Robust Speech Dereverberation With a Neural Network-Based Post-Filter That Exploits Multi-Conditional Training of Binaural Cues,” IEEE/ACM Trans. Audio Speech Lang. Process., vol. 26, no. 2, pp. 406–414, Feb. 2018.
+[11]S. Ma, H. Li, H. Zhang, and X. Xie, “Reverberation Level Recognition by Formants Based on 10-Fold Cross Validation of GMM,” in Digital TV and Wireless Multimedia Communication, vol. 815, G. Zhai, J. Zhou, and X. Yang, Eds. Singapore: Springer Singapore, 2018, pp. 161–171.
+[12]N. M, R. Velmurugan, and P. Rao, “A Non-convolutive NMF Model for Speech Dereverberation,” in Interspeech 2018, 2018, pp. 1324–1328.
+[13]J. P. Escudero et al., “An improved DNN-based spectral feature mapping that removes noise and reverberation for robust automatic speech recognition,” p. 5, 2018.
+[14]D. S. Williamson and D. Wang, “Time-Frequency Masking in the Complex Domain for Speech Dereverberation and Denoising,” IEEE/ACM Trans. Audio Speech Lang. Process., vol. 25, no. 7, pp. 1492–1501, Jul. 2017.
+[15]D. S. Williamson and D. Wang, “Time-Frequency Masking in the Complex Domain for Speech Dereverberation and Denoising,” IEEE/ACM Trans. Audio Speech Lang. Process., vol. 25, no. 7, pp. 1492–1501, Jul. 2017.
+[16]J. F. Santos and T. H. Falk, “Speech Dereverberation with Context-aware Recurrent Neural Networks,” arXiv:1711.06309 [cs, eess], Nov. 2017.
+[17]Y. Zhao, D. Wang, I. Merks, and T. Zhang, “DNN-based enhancement of noisy and reverberant speech,” in 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Shanghai, 2016, pp. 6525–6529.
+[18]“Zhao et al. - 2016 - DNN-based enhancement of noisy and reverberant spe.pdf.” .
+[19]K. Kinoshita et al., “A summary of the REVERB challenge: state-of-the-art and remaining challenges in reverberant speech processing research,” EURASIP J. Adv. Signal Process., vol. 2016, no. 1, p. 7, Dec. 2016.
+[20]Kun Han, Yuxuan Wang, DeLiang Wang, W. S. Woods, I. Merks, and Tao Zhang, “Learning Spectral Mapping for Speech Dereverberation and Denoising,” IEEE/ACM Trans. Audio Speech Lang. Process., vol. 23, no. 6, pp. 982–992, Jun. 2015.
+[21]Kun Han, Yuxuan Wang, DeLiang Wang, W. S. Woods, I. Merks, and Tao Zhang, “Learning Spectral Mapping for Speech Dereverberation and Denoising,” IEEE/ACM Trans. Audio Speech Lang. Process., vol. 23, no. 6, pp. 982–992, Jun. 2015.
+[22]Kun Han, Yuxuan Wang, DeLiang Wang, W. S. Woods, I. Merks, and Tao Zhang, “Learning Spectral Mapping for Speech Dereverberation and Denoising,” IEEE/ACM Trans. Audio Speech Lang. Process., vol. 23, no. 6, pp. 982–992, Jun. 2015.
+[23]R. Giri, M. L. Seltzer, J. Droppo, and D. Yu, “Improving speech recognition in reverberation using a room-aware deep neural network and multi-task learning,” in 2015 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), South Brisbane, Queensland, Australia, 2015, pp. 5014–5018.
+[24]F. Weninger, S. Watanabe, Y. Tachioka, and B. Schuller, “Deep recurrent de-noising auto-encoder and blind de-reverberation for reverberated speech recognition,” in 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Florence, Italy, 2014, pp. 4623–4627.
+[25]F. Weninger, J. Geiger, M. Wöllmer, B. Schuller, and G. Rigoll, “Feature enhancement by deep LSTM networks for ASR in reverberant multisource environments,” Computer Speech & Language, vol. 28, no. 4, pp. 888–902, Jul. 2014.
+[26]“Weninger et al. - 2014 - Feature enhancement by deep LSTM networks for ASR .pdf.” .
+[27]K. Han, Y. Wang, and D. Wang, “Learning spectral mapping for speech dereverberation,” in 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Florence, Italy, 2014, pp. 4628–4632.
+[28]K. Kinoshita and T. Nakatani, “Speech Dereverberation Using Linear Prediction,” vol. 9, no. 7, p. 7, 2011.
+[29]A. Akula, V. R. Apsingekar, and P. L. de Leon, “Speaker Identification in Room Reverberation Using GMM-UBM,” in 2009 IEEE 13th Digital Signal Processing Workshop and 5th IEEE Signal Processing Education Workshop, Marco Island, FL, USA, 2009, pp. 37–41.
+[30]N. D. Gaubitch, E. A. P. Habets, and P. A. Naylor, “Multimicrophone speech dereverberation using spatiotemporal and spectral processing,” in 2008 IEEE International Symposium on Circuits and Systems, Seattle, WA, USA, 2008, pp. 3222–3225.
+[31]Z. Jin and D. Wang, “A SUPERVISED LEARNING APPROACH TO MONAURAL SEGREGATION OF REVERBERANT SPEECH,” p. 4, 2007.
+[32]Mingyang Wu and DeLiang Wang, “A two-stage algorithm for one-microphone reverberant speech enhancement,” IEEE Trans. Audio Speech Lang. Process., vol. 14, no. 3, pp. 774–784, May 2006.
+[33]M. Miyoshi and Y. Kaneda, “Inverse filtering of room acoustics,” IEEE Trans. Acoust., Speech, Signal Processing, vol. 36, no. 2, pp. 145–152, Feb. 1988.
+[34]S. T. Neely and J. B. Allen, “Invertibility of a room impulse response,” The Journal of the Acoustical Society of America, vol. 66, no. 1, pp. 165–169, Jul. 1979.
